@@ -96,6 +96,6 @@ mvn exec:java -Dexec.mainClass="Main"
 - [ ] Develop `InventoryAuditService` to handle Undo/Redo operations with `CustomStack`.
 - [ ] Refactor package name from `dataestructure` to `datastructure`.
 
-## 📝 Author
+##  WHO made this: 
 
 Developed by **Jose** as a backend portfolio project demonstrating Java core standards, database persistence, and foundational data structures.
